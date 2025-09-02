@@ -1,4 +1,4 @@
-import langchain_generate_pet_name as lgpn
+import langchain_servis as lgpn
 import streamlit as st
 
 st.title("Buat Nama Peliharaanmu")
